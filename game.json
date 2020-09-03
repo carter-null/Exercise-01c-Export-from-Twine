@@ -1,0 +1,113 @@
+{
+    "passages": [
+      {
+        "text": "The great Cartopia Bridge overlooks the Valley of Teeth, the Cartopolis Stairwell, and Magma Forge.\n\n[[Go to the Valley of Teeth->Valley of Teeth]]\n[[Go to Magma Forge->Magma Forge]]\n[[Go to the Cartopolis Stairwell->Cartopolis Stairwell]]\n",
+        "links": [
+          {
+            "name": "Go to the Valley of Teeth",
+            "link": "Valley of Teeth",
+            "pid": "3"
+          },
+          {
+            "name": "Go to Magma Forge",
+            "link": "Magma Forge",
+            "pid": "2"
+          },
+          {
+            "name": "Go to the Cartopolis Stairwell",
+            "link": "Cartopolis Stairwell",
+            "pid": "4"
+          }
+        ],
+        "name": "Cartopia Bridge",
+        "pid": "1",
+        "position": {
+          "x": "411",
+          "y": "190"
+        }
+      },
+      {
+        "text": "Magma Forge burns hot with old fire.\n\n[[Go to the Valley of Teeth->Valley of Teeth]]\n[[Go to Cartopia Bridge->Cartopia Bridge]]\n[[Go to the Cartopolis Stairwell->Cartopolis Stairwell]]\n",
+        "links": [
+          {
+            "name": "Go to the Valley of Teeth",
+            "link": "Valley of Teeth",
+            "pid": "3"
+          },
+          {
+            "name": "Go to Cartopia Bridge",
+            "link": "Cartopia Bridge",
+            "pid": "1"
+          },
+          {
+            "name": "Go to the Cartopolis Stairwell",
+            "link": "Cartopolis Stairwell",
+            "pid": "4"
+          }
+        ],
+        "name": "Magma Forge",
+        "pid": "2",
+        "position": {
+          "x": "530",
+          "y": "189"
+        }
+      },
+      {
+        "text": "The Valley of Teeth is peppered with trolls and ogres. Teeth rain from the sky, onto the unforgiving earth of the valley.\n\n[[Go to the Cartopolis Stairwell->Cartopolis Stairwell]]\n[[Go to Cartopia Bridge->Cartopia Bridge]]\n[[Go to the Magma Forge->Magma Forge]]\n",
+        "links": [
+          {
+            "name": "Go to the Cartopolis Stairwell",
+            "link": "Cartopolis Stairwell",
+            "pid": "4"
+          },
+          {
+            "name": "Go to Cartopia Bridge",
+            "link": "Cartopia Bridge",
+            "pid": "1"
+          },
+          {
+            "name": "Go to the Magma Forge",
+            "link": "Magma Forge",
+            "pid": "2"
+          }
+        ],
+        "name": "Valley of Teeth",
+        "pid": "3",
+        "position": {
+          "x": "336",
+          "y": "340"
+        }
+      },
+      {
+        "text": "The Cartopolis Stairwell reaches deep into the sky.\n\n[[Go to the Valley of Teeth->Valley of Teeth]]\n[[Go to Cartopia Bridge->Cartopia Bridge]]\n[[Go to the Magma Forge->Magma Forge]]\n",
+        "links": [
+          {
+            "name": "Go to the Valley of Teeth",
+            "link": "Valley of Teeth",
+            "pid": "3"
+          },
+          {
+            "name": "Go to Cartopia Bridge",
+            "link": "Cartopia Bridge",
+            "pid": "1"
+          },
+          {
+            "name": "Go to the Magma Forge",
+            "link": "Magma Forge",
+            "pid": "2"
+          }
+        ],
+        "name": "Cartopolis Stairwell",
+        "pid": "4",
+        "position": {
+          "x": "485",
+          "y": "340"
+        }
+      }
+    ],
+    "name": "Cartopia",
+    "startnode": "1",
+    "creator": "Twine",
+    "creator-version": "2.3.9",
+    "ifid": "95C2C215-35F1-4631-BE65-04B858C800B9"
+  }
